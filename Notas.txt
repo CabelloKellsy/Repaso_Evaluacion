@@ -1,0 +1,53 @@
+Repaso: Uso de express
+
+Pasos antes
+1. estrsutura de proyecto
+2. fichero de inicio: index.js
+3. crear el package json con termial de git
+4. en consola git bash
+
+npm init
+
+    package name: (repaso-evaluacion)
+    version: (1.0.0) 0.0.1
+    description: Ensayo de evaluacion Express
+    entry point: (index.js)
+    test command:
+    git repository: https://github.com/CabelloKellsy/Repaso_Evaluacion.git
+    keywords: Node, Js, Express
+    author: Kelsy Cabello
+
+en package.json
+
+    "scripts": {
+        "start": "node --watch ./src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+
+validar que esta OK
+$ npm start
+
+    > repaso-evaluacion@0.0.1 start
+    > node --watch ./src/index.js
+    Completed running './src/index.js'
+
+para cargar de lo modulos en index.js, instalar el express
+
+$ npm i express
+genera la carpeta:
+    - node_modules
+    - package-lock.json
+
+definir el puerto en archivo .env  PORT = 4000
+
+.gitignore:
+
+    .*
+    /node_modules
+
+instalar morgan
+$ npm i morgan --D
+
+rustas estaticas estan en public .html
+
+agregar un 

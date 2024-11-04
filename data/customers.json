@@ -1,0 +1,74 @@
+[
+  {
+    "name": "John",
+    "surname": "Bezzos",
+    "email": "john.bezzos@pear.com",
+    "key": "booksforever",
+    "dateBirth": "2002-05-12",
+    "foto": "john.bezzos.png",
+    "compras": [
+      {"producto": "Xiaomi 12",  "marca": "Xiaomi", "precio": 800},
+      {"producto": "SSD", "marca": "Samsung", "precio": 120}
+    ]
+  },
+  {
+    "name": "Bill",
+    "surname": "Jobs",
+    "email": "bill.jobs@pear.com",
+    "key": "ilikeapples",
+    "dateBirth": "1999-07-02",
+    "foto": "bill.jobs.png",
+    "compras": [
+      {"producto": "IPhone 14", "marca": "Apple", "precio": 1200},
+      {"producto": "HP EliteBook 860", "marca": "HP", "precio": 400}
+    ]
+  },
+  {
+    "name": "Steve",
+    "surname": "Windows",
+    "email": "steve.windows@pear.com",
+    "key": "ilikelinux",
+    "dateBirth": "1990-04-25",
+    "foto": "steve.windows.png",
+    "compras": [
+      {"producto": "IPhone 12", "marca": "Apple", "precio": 800},
+      {"producto": "HP EliteBook 890", "marca": "HP", "precio": 1200}
+    ]
+  },
+  {
+    "name": "Maria",
+    "surname": "Jobs",
+    "email": "barbara.kingsolver@pear.com",
+    "key": "blablabla",
+    "dateBirth": "2004-01-03",
+    "foto": "barbara.kingsolver.png",
+    "compras": [
+      {"producto": "Macbook Air M4", "marca": "Apple", "precio": 1600},
+      {"producto": "HP EliteBook 890", "marca": "HP", "precio": 1200}
+    ]
+  },
+  {
+    "name": "Maria",
+    "surname": "Blanchard",
+    "email": "maria.blanchard@pear.com",
+    "key": "diamondsareforever",
+    "dateBirth": "2001-08-22",
+    "foto": "maria.blanchard.png",
+    "compras": [
+      {"producto": "Monitor 4K 28p", "marca": "Dell", "precio": 375},
+      {"producto": "HP EliteBook 890", "marca": "HP", "precio": 1200}
+    ]
+  },
+  {
+    "name": "Violetta",
+    "surname": "Valery",
+    "email": "violetta.valeryd@pear.com",
+    "key": "diamondsareforever",
+    "dateBirth": "2001-08-22",
+    "foto": "violetta.valery.png",
+    "compras": [
+      {"producto": "Xiaomi 12",  "marca": "Xiaomi", "precio": 800},
+      {"producto": "SSD", "marca": "Samsung", "precio": 120}
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "repaso-evaluacion",
+  "version": "0.0.1",
+  "description": "Ensayo de evaluacion Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CabelloKellsy/Repaso_Evaluacion.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Express"
+  ],
+  "author": "Kelsy Cabello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CabelloKellsy/Repaso_Evaluacion/issues"
+  },
+  "homepage": "https://github.com/CabelloKellsy/Repaso_Evaluacion#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
